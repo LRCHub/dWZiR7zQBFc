@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Rewind",
+  "base_artist": "OZROSAURUS",
+  "createdAt": "2025-12-09T14:41:16.893649Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rewind",
+      "artist": "London Elektricity",
+      "has_synced": false,
+      "path": "select/01_Rewind_London_Elektricity.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Freak Out (Dj Kenny Mitchell Rewind 93 Remix",
+      "artist": "My Brightest Diamond featuring Nimnomadic)",
+      "has_synced": false,
+      "path": "select/02_Freak_Out_(Dj_Kenny_Mitchell_Rewind_93_Remix_My_Brightest_Diamond_featuring_Nimnomadic).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Freak Out (Dj Kenny Mitchell Rewind 93 Remix Feat. Nimnomadic)",
+      "artist": "My Brightest Diamond",
+      "has_synced": false,
+      "path": "select/03_Freak_Out_(Dj_Kenny_Mitchell_Rewind_93_Remix_Feat._Nimnomadic)_My_Brightest_Diamond.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rewind",
+      "artist": "Emma Hewitt",
+      "has_synced": true,
+      "path": "select/04_Rewind_Emma_Hewitt.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rewind (Dabruck & Klein Radio Edit)",
+      "artist": "Emma Hewitt",
+      "has_synced": false,
+      "path": "select/05_Rewind_(Dabruck_&_Klein_Radio_Edit)_Emma_Hewitt.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rewind (Dabruck & Klein Remix)",
+      "artist": "Emma Hewitt",
+      "has_synced": false,
+      "path": "select/06_Rewind_(Dabruck_&_Klein_Remix)_Emma_Hewitt.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rewind - Radio Edit",
+      "artist": "Emma Hewitt",
+      "has_synced": false,
+      "path": "select/07_Rewind_-_Radio_Edit_Emma_Hewitt.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rewind - Mikkas Radio Edit",
+      "artist": "Emma Hewitt",
+      "has_synced": true,
+      "path": "select/08_Rewind_-_Mikkas_Radio_Edit_Emma_Hewitt.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rewind - Mikkas Remix",
+      "artist": "Emma Hewitt",
+      "has_synced": false,
+      "path": "select/09_Rewind_-_Mikkas_Remix_Emma_Hewitt.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rewind (tyDi Radio Edit)",
+      "artist": "Emma Hewitt",
+      "has_synced": false,
+      "path": "select/10_Rewind_(tyDi_Radio_Edit)_Emma_Hewitt.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rewind",
+      "artist": "The New Division feat. Missing Words",
+      "has_synced": false,
+      "path": "select/11_Rewind_The_New_Division_feat._Missing_Words.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rewind",
+      "artist": "The New Division",
+      "has_synced": false,
+      "path": "select/12_Rewind_The_New_Division.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "On Rewind",
+      "artist": "Nicole Millar",
+      "has_synced": false,
+      "path": "select/13_On_Rewind_Nicole_Millar.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rewind",
+      "artist": "Sylvan Esso",
+      "has_synced": true,
+      "path": "select/14_Rewind_Sylvan_Esso.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rewind - Live",
+      "artist": "Sylvan Esso",
+      "has_synced": false,
+      "path": "select/15_Rewind_-_Live_Sylvan_Esso.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Erase / Rewind",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/16_Erase___Rewind_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/17_Erase\u0000Rewind_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/18_Erase\u0000Rewind_The_Cardigans.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Erase\u0000Rewind",
+      "artist": "The Cardigans",
+      "has_synced": true,
+      "path": "select/19_Erase\u0000Rewind_The_Cardigans.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rewind feat. ZORN",
+      "artist": "OZROSAURUS",
+      "has_synced": false,
+      "path": "select/pl_01_Rewind_feat._ZORN_OZROSAURUS.txt"
+    }
+  ]
+}
